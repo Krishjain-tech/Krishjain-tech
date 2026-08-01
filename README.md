@@ -8,6 +8,53 @@
 
 <div align="center">
 
+<svg width="120" height="120" viewBox="0 0 120 120" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="vlsiGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#4C1D95"/>
+      <stop offset="55%" stop-color="#2563EB"/>
+      <stop offset="100%" stop-color="#F97316"/>
+    </linearGradient>
+  </defs>
+  <rect x="6" y="6" width="108" height="108" rx="16" fill="#0F0A1E" stroke="url(#vlsiGrad)" stroke-width="2"/>
+  <rect x="38" y="38" width="44" height="44" rx="6" fill="none" stroke="url(#vlsiGrad)" stroke-width="3"/>
+  <rect x="50" y="50" width="20" height="20" rx="3" fill="url(#vlsiGrad)"/>
+  <g stroke="url(#vlsiGrad)" stroke-width="2.5" stroke-linecap="round">
+    <line x1="60" y1="18" x2="60" y2="38"/>
+    <line x1="60" y1="82" x2="60" y2="102"/>
+    <line x1="18" y1="60" x2="38" y2="60"/>
+    <line x1="82" y1="60" x2="102" y2="60"/>
+    <line x1="46" y1="26" x2="46" y2="38"/>
+    <line x1="74" y1="26" x2="74" y2="38"/>
+    <line x1="46" y1="82" x2="46" y2="94"/>
+    <line x1="74" y1="82" x2="74" y2="94"/>
+    <line x1="26" y1="46" x2="38" y2="46"/>
+    <line x1="26" y1="74" x2="38" y2="74"/>
+    <line x1="82" y1="46" x2="94" y2="46"/>
+    <line x1="82" y1="74" x2="94" y2="74"/>
+  </g>
+  <g fill="url(#vlsiGrad)">
+    <circle cx="60" cy="18" r="2.5"/>
+    <circle cx="60" cy="102" r="2.5"/>
+    <circle cx="18" cy="60" r="2.5"/>
+    <circle cx="102" cy="60" r="2.5"/>
+    <circle cx="46" cy="26" r="2"/>
+    <circle cx="74" cy="26" r="2"/>
+    <circle cx="46" cy="94" r="2"/>
+    <circle cx="74" cy="94" r="2"/>
+    <circle cx="26" cy="46" r="2"/>
+    <circle cx="26" cy="74" r="2"/>
+    <circle cx="94" cy="46" r="2"/>
+    <circle cx="94" cy="74" r="2"/>
+  </g>
+</svg>
+
+</div>
+
+<br/>
+
+<div align="center">
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0b2e,50:4a2c8c,100:7b2fff&height=220&section=header&text=Krish%20Jain&fontSize=55&fontColor=E4D4FF&animation=fadeIn&fontAlignY=38&desc=ECE%20%2B%20VLSI%20%C3%97%20Machine%20Learning%20%7C%20Building%20Intelligent%20Hardware&descAlignY=58&descSize=15" width="100%"/>
 
 <a href="https://git.io/typing-svg">
@@ -63,13 +110,13 @@ positioning: >
 
 **Programming**
 <br/>
-<img src="https://skillicons.dev/icons?i=python,c,cpp,html" />
+<img src="https://skillicons.dev/icons?i=python,c,cpp,html&theme=dark" />
 
 <br/><br/>
 
 **Embedded**
 <br/>
-<img src="https://skillicons.dev/icons?i=arduino" />
+<img src="https://skillicons.dev/icons?i=arduino&theme=dark" />
 <br/>
 <sub>ESP8266 · NodeMCU</sub>
 
@@ -83,7 +130,7 @@ positioning: >
 
 **Machine Learning**
 <br/>
-<img src="https://skillicons.dev/icons?i=sklearn,py" />
+<img src="https://skillicons.dev/icons?i=sklearn,py&theme=dark" />
 <br/>
 <sub>Pandas · NumPy · Matplotlib</sub>
 
@@ -91,7 +138,7 @@ positioning: >
 
 **Tools**
 <br/>
-<img src="https://skillicons.dev/icons?i=git,github,firebase,vscode" />
+<img src="https://skillicons.dev/icons?i=git,github,firebase,vscode&theme=dark" />
 <br/>
 <sub>Jupyter Notebook · Streamlit</sub>
 
@@ -135,7 +182,7 @@ Trained a Scikit-learn pipeline to score financial transactions for fraud risk, 
 | **Deployment** | Live on Streamlit Community Cloud |
 | **Known limitation** | Binary scoring only — doesn't yet express risk as a probability |
 | **Next steps** | Random Forest / XGBoost to move from binary flagging to probabilistic risk scoring |
-| **Repository** | [github.com/Krishjain-tech](https://github.com/Krishjain-tech) <!-- replace with actual repo link --> |
+| **Repository** | [github.com/Krishjain-tech/signal-competitor-tracker](https://github.com/Krishjain-tech/signal-competitor-tracker) |
 
 **Run it locally**
 
