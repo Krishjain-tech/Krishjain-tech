@@ -182,7 +182,7 @@ Trained a Scikit-learn pipeline to score financial transactions for fraud risk, 
 | **Deployment** | Live on Streamlit Community Cloud |
 | **Known limitation** | Binary scoring only — doesn't yet express risk as a probability |
 | **Next steps** | Random Forest / XGBoost to move from binary flagging to probabilistic risk scoring |
-| **Repository** | [github.com/Krishjain-tech/signal-competitor-tracker](https://github.com/Krishjain-tech/signal-competitor-tracker) |
+| **Repository** | [github.com/Krishjain-tech/signal-competitor-tracker](https://github.com/Krishjain-tech/fraud-detection-app) |
 
 **Run it locally**
 
