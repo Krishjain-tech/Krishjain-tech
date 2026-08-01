@@ -12,7 +12,7 @@
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-4C1D95?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/krish-jain-)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-4C1D95?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/krish-jain-16306831a)
 [![Gmail](https://img.shields.io/badge/Gmail-Contact-4C1D95?style=flat-square&logo=gmail&logoColor=white)](mailto:krishjain2905k@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-4C1D95?style=flat-square&logo=github&logoColor=white)](https://github.com/KriLatAI)
 
@@ -125,35 +125,6 @@ Contributed to marketing and promotional strategy for chapter events, supporting
 
 <br/>
 
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=KriLatAI&show_icons=true&theme=radical&hide_border=true&bg_color=1a0b2e&title_color=A78BFA&icon_color=7C3AED&text_color=E4D4FF" width="48%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KriLatAI&layout=compact&theme=radical&hide_border=true&bg_color=1a0b2e&title_color=A78BFA&text_color=E4D4FF" width="48%"/>
-
-<img src="https://streak-stats.demolab.com/?user=KriLatAI&theme=radical&hide_border=true&background=1a0b2e&ring=7C3AED&fire=A78BFA&currStreakLabel=A78BFA" width="70%"/>
-
-</div>
-
-<br/>
-
-## 🏆 Trophies
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=KriLatAI&theme=radical&no-frame=true&row=1&column=6" width="100%"/>
-</div>
-
-<br/>
-
-## 📈 Contribution Activity
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=KriLatAI&theme=react-dark&bg_color=1a0b2e&color=A78BFA&line=7C3AED&point=E4D4FF&hide_border=true" width="100%"/>
-</div>
-
-<br/>
-
 ## 🧭 Current Focus
 
 ```yaml
@@ -178,7 +149,7 @@ open_to:
 <div align="center">
 
 [![Gmail](https://img.shields.io/badge/-krishjain2905k%40gmail.com-4C1D95?style=flat-square&logo=gmail&logoColor=white)](mailto:krishjain2905k@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-4C1D95?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/krish-jain-)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-4C1D95?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/krish-jain-16306831a)
 [![GitHub](https://img.shields.io/badge/-GitHub-4C1D95?style=flat-square&logo=github&logoColor=white)](https://github.com/KriLatAI)
 
 </div>
