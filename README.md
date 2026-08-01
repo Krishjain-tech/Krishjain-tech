@@ -1,8 +1,18 @@
+<!-- ================================================================== -->
+<!-- KRISH JAIN — GITHUB PROFILE README                                -->
+<!-- Repo must be named exactly: Krishjain-tech/Krishjain-tech (matches username) -->
+<!-- Replace any "Krishjain-tech" instance below if you rename your GitHub  -->
+<!-- username again. All image URLs are auto-generated (no uploads    -->
+<!-- needed) except where a comment says otherwise.                   -->
+<!-- ================================================================== -->
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0b2e,50:4a2c8c,100:7b2fff&height=220&section=header&text=Krish%20Jain&fontSize=55&fontColor=E4D4FF&animation=fadeIn&fontAlignY=38&desc=ECE%20%2B%20VLSI%20%C3%97%20Machine%20Learning%20%7C%20Building%20at%20the%20Hardware-Software%20Boundary&descAlignY=58&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0b2e,50:4a2c8c,100:7b2fff&height=220&section=header&text=Krish%20Jain&fontSize=55&fontColor=E4D4FF&animation=fadeIn&fontAlignY=38&desc=ECE%20%2B%20VLSI%20%C3%97%20Machine%20Learning%20%7C%20Building%20Intelligent%20Hardware&descAlignY=58&descSize=15" width="100%"/>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=B.E.+ECE+%40+L.D.+College+of+Engineering;Minor+in+AI+%26+Machine+Learning;VLSI+%26+Embedded+Systems+Enthusiast;Building+Sentry+%7C+ML+Pipelines" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=B.E.+ECE+%40+L.D.+College+of+Engineering;Minor+in+AI+%26+Machine+Learning;VLSI+%2F+Embedded+Systems+Engineer+in+training;Exploring+Computer+Vision+%2B+Embedded+AI" alt="Typing SVG" />
+</a>
 
 <br/>
 
@@ -14,11 +24,12 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-4C1D95?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/krish-jain-16306831a)
 [![Gmail](https://img.shields.io/badge/Gmail-Contact-4C1D95?style=flat-square&logo=gmail&logoColor=white)](mailto:krishjain2905k@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-4C1D95?style=flat-square&logo=github&logoColor=white)](https://github.com/KriLatAI)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-4C1D95?style=flat-square&logo=github&logoColor=white)](https://github.com/Krishjain-tech)
 
-![Profile Views](https://komarev.com/ghpvc/?username=KriLatAI&color=7c3aed&style=flat-square&label=Profile+Views)
-![Followers](https://img.shields.io/github/followers/KriLatAI?style=flat-square&color=7c3aed&labelColor=1a0b2e)
-![Stars](https://img.shields.io/github/stars/KriLatAI?style=flat-square&color=7c3aed&labelColor=1a0b2e)
+<!-- Visitor counter, followers, stars — auto-updating, no setup needed -->
+![Profile Views](https://komarev.com/ghpvc/?username=Krishjain-tech&color=7c3aed&style=flat-square&label=Profile+Views)
+![Followers](https://img.shields.io/github/followers/Krishjain-tech?style=flat-square&color=7c3aed&labelColor=1a0b2e)
+![Stars](https://img.shields.io/github/stars/Krishjain-tech?style=flat-square&color=7c3aed&labelColor=1a0b2e)
 
 </div>
 
@@ -28,86 +39,110 @@
 
 ```yaml
 name: Krish Jain
-role: ECE Undergraduate (Sem 5) × ML/Data Science Builder
-university: L.D. College of Engineering, Ahmedabad (GTU) — B.E. ECE, Minor in AI & ML
+role: ECE Undergraduate (Sem 5) × VLSI/Embedded × Applied ML
+university: L.D. College of Engineering, Ahmedabad (GTU)
+degree: B.E. Electronics & Communication, Minor in AI & Machine Learning
 graduating: May 2028
-focus:
-  - VLSI & Digital Logic Design
-  - Embedded Systems (Arduino, NodeMCU/ESP8266, sensor + motor interfacing)
-  - Machine Learning (scikit-learn pipelines, classification, model evaluation)
+cpi: 8.20
+location: Ahmedabad, Gujarat, India
+goal: >
+  Becoming a VLSI / Embedded Systems engineer while layering in Machine
+  Learning and Computer Vision to build intelligent hardware systems.
+  Targeting a Master's in Germany focused on Semiconductor Engineering
+  and VLSI (roadmap set for Winter Semester 2029/30).
 positioning: >
-  Deliberately building a dual-domain profile that bridges hardware/VLSI
-  with applied ML — not a pivot, a differentiator.
-currently_exploring:
-  - Predictive Maintenance (AI4I 2020 dataset, recall-optimized classification)
-  - Employee Attrition Prediction (IBM HR Analytics dataset)
-  - GTU VLSI Design coursework, targeting a VLSI/semiconductor-focused Master's in Germany
+  Deliberately dual-domain — hardware/VLSI and applied ML are treated as
+  one long-term differentiator, not a pivot from one to the other.
 ```
 
 <br/>
 
-## 🛠️ Tech Stack
+## 🛠️ Skills
 
 <div align="center">
 
-**Languages**
+**Programming**
 <br/>
-![Python](https://img.shields.io/badge/Python-1a0b2e?style=for-the-badge&logo=python&logoColor=A78BFA)
-![C](https://img.shields.io/badge/C%2FC%2B%2B-1a0b2e?style=for-the-badge&logo=c&logoColor=A78BFA)
-![MATLAB](https://img.shields.io/badge/MATLAB-1a0b2e?style=for-the-badge&logo=mathworks&logoColor=A78BFA)
-![HTML5](https://img.shields.io/badge/HTML5-1a0b2e?style=for-the-badge&logo=html5&logoColor=A78BFA)
+<img src="https://skillicons.dev/icons?i=python,c,cpp,html" />
 
-**VLSI & Embedded**
-<br/>
-![Verilog](https://img.shields.io/badge/Verilog-1a0b2e?style=for-the-badge&logo=v&logoColor=A78BFA)
-![Arduino](https://img.shields.io/badge/Arduino-1a0b2e?style=for-the-badge&logo=arduino&logoColor=A78BFA)
-![ESP8266](https://img.shields.io/badge/ESP8266%2FNodeMCU-1a0b2e?style=for-the-badge&logo=espressif&logoColor=A78BFA)
+<br/><br/>
 
-**ML & Data Science**
+**Embedded**
 <br/>
-![scikit-learn](https://img.shields.io/badge/scikit--learn-1a0b2e?style=for-the-badge&logo=scikitlearn&logoColor=A78BFA)
-![NumPy](https://img.shields.io/badge/NumPy-1a0b2e?style=for-the-badge&logo=numpy&logoColor=A78BFA)
-![Pandas](https://img.shields.io/badge/Pandas-1a0b2e?style=for-the-badge&logo=pandas&logoColor=A78BFA)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-1a0b2e?style=for-the-badge&logo=plotly&logoColor=A78BFA)
+<img src="https://skillicons.dev/icons?i=arduino" />
+<br/>
+<sub>ESP8266 · NodeMCU</sub>
 
-**Frameworks & Tools**
+<br/><br/>
+
+**VLSI**
 <br/>
-![Firebase](https://img.shields.io/badge/Firebase-1a0b2e?style=for-the-badge&logo=firebase&logoColor=A78BFA)
-![Streamlit](https://img.shields.io/badge/Streamlit-1a0b2e?style=for-the-badge&logo=streamlit&logoColor=A78BFA)
-![Jupyter](https://img.shields.io/badge/Jupyter-1a0b2e?style=for-the-badge&logo=jupyter&logoColor=A78BFA)
-![Git](https://img.shields.io/badge/Git%2FGitHub-1a0b2e?style=for-the-badge&logo=github&logoColor=A78BFA)
+<sub>Verilog · Digital Logic Design · RTL Basics</sub>
+
+<br/><br/>
+
+**Machine Learning**
+<br/>
+<img src="https://skillicons.dev/icons?i=sklearn,py" />
+<br/>
+<sub>Pandas · NumPy · Matplotlib</sub>
+
+<br/><br/>
+
+**Tools**
+<br/>
+<img src="https://skillicons.dev/icons?i=git,github,firebase,vscode" />
+<br/>
+<sub>Jupyter Notebook · Streamlit</sub>
 
 </div>
 
 <br/>
 
-## 🧠 ML & Data Science Focus
+## 🧠 Currently Learning
 
-| Domain | Proficiency | Details |
-|---|---|---|
-| Classification & Model Pipelines | Applied | `ColumnTransformer` + `DecisionTreeClassifier`, balanced class weighting, pipeline design in scikit-learn |
-| Feature Engineering & Preprocessing | Applied | Data cleaning, encoding, cross-validation, hyperparameter tuning |
-| Model Evaluation | Applied | ROC curves, confusion matrix analysis, recall-optimized metrics for imbalanced/failure-critical data |
-| Predictive Maintenance | In Progress | Binary classification on AI4I 2020, scoping multiclass + RUL extensions |
-| HR Analytics | In Progress | Employee attrition prediction, IBM HR Analytics dataset |
+```yaml
+learning:
+  - VLSI Design (GTU Semester 5 coursework)
+  - Digital IC Design
+  - RTL Design
+  - OpenCV
+  - YOLO / Object Detection
+  - Computer Vision fundamentals
+  - Advanced Machine Learning (ensembles, imbalanced classification)
+```
 
 <br/>
 
 ## 🚀 Featured Projects
 
-<details>
+<details open>
 <summary><b>🔐 Sentry — Fraud Detection Web App</b></summary>
 <br/>
 
-Trained and deployed a fraud detection pipeline that flags high-risk "account fully drained" patterns in CASH_OUT/CASH_IN transactions, with a custom fintech-styled UI shipped to Streamlit Community Cloud.
+An end-to-end machine learning fraud detection system that flags high-risk "account fully drained" patterns in CASH_OUT/CASH_IN transactions, shipped as an interactive web app with a custom fintech-styled UI.
+
+**Overview**
+
+Trained a Scikit-learn pipeline to score financial transactions for fraud risk, then wrapped it in a Streamlit interface for real-time interaction. The model diagnosis surfaced a binary-scoring limitation, which shaped the next iteration toward probabilistic risk scoring.
 
 | | |
 |---|---|
-| **Stack** | Python, Scikit-learn, Streamlit |
-| **Model** | `ColumnTransformer` + `DecisionTreeClassifier`, balanced class weighting |
-| **Status** | Live on Streamlit Community Cloud |
-| **Next Steps** | Random Forest / XGBoost — moving from binary flagging to probabilistic risk scoring |
-| **Repository** | [github.com/KriLatAI](https://github.com/KriLatAI) |
+| **Stack** | Python, Scikit-learn, Pandas, NumPy, Streamlit |
+| **Pipeline** | `ColumnTransformer` (preprocessing) + `DecisionTreeClassifier` with balanced class weighting |
+| **Core task** | Flagging high-risk "account fully drained" patterns in CASH_OUT / CASH_IN transactions |
+| **UI** | Custom fintech-styled redesign built in Streamlit |
+| **Deployment** | Live on Streamlit Community Cloud |
+| **Known limitation** | Binary scoring only — doesn't yet express risk as a probability |
+| **Next steps** | Random Forest / XGBoost to move from binary flagging to probabilistic risk scoring |
+| **Repository** | [github.com/Krishjain-tech](https://github.com/Krishjain-tech) <!-- replace with actual repo link --> |
+
+**Run it locally**
+
+```bash
+pip install -r requirements.txt
+streamlit run fraud_detection.py
+```
 
 </details>
 
@@ -125,22 +160,35 @@ Contributed to marketing and promotional strategy for chapter events, supporting
 
 <br/>
 
-## 🧭 Current Focus
+## 🗺️ Roadmap
 
 ```yaml
-learning:
-  - VLSI Design (GTU Semester 5 coursework)
-  - Advanced ML: ensemble methods, imbalanced classification
-building:
-  - Predictive Maintenance ML pipeline (AI4I 2020)
-  - Employee Attrition prediction model
-exploring:
-  - Master's programs in Germany — VLSI & semiconductor track (target: WS 2029/30)
-open_to:
-  - VLSI/Embedded internships
-  - ML/Data Science collaborations
-  - Research assistantships bridging hardware and applied ML
+now:
+  - GTU VLSI Design (Semester 5)
+  - Expanding Sentry with probabilistic risk scoring (Random Forest / XGBoost)
+next:
+  - Master Verilog and RTL design
+  - Learn OpenCV and YOLO for computer vision
+  - Ship 15+ portfolio-quality projects
+  - Secure a semiconductor / VLSI internship
+later:
+  - Contribute to open source
+  - Publish technical write-ups
+  - Master's in Germany — Semiconductor Engineering / VLSI (target: WS 2029/30)
 ```
+
+<br/>
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Krishjain-tech&show_icons=true&theme=radical&hide_border=true&bg_color=1a0b2e&title_color=A78BFA&icon_color=7C3AED&text_color=E4D4FF" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krishjain-tech&layout=compact&theme=radical&hide_border=true&bg_color=1a0b2e&title_color=A78BFA&text_color=E4D4FF" width="48%"/>
+
+<img src="https://streak-stats.demolab.com/?user=Krishjain-tech&theme=radical&hide_border=true&background=1a0b2e&ring=7C3AED&fire=A78BFA&currStreakLabel=A78BFA" width="70%"/>
+
+</div>
 
 <br/>
 
@@ -150,7 +198,7 @@ open_to:
 
 [![Gmail](https://img.shields.io/badge/-krishjain2905k%40gmail.com-4C1D95?style=flat-square&logo=gmail&logoColor=white)](mailto:krishjain2905k@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-4C1D95?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/krish-jain-16306831a)
-[![GitHub](https://img.shields.io/badge/-GitHub-4C1D95?style=flat-square&logo=github&logoColor=white)](https://github.com/KriLatAI)
+[![GitHub](https://img.shields.io/badge/-GitHub-4C1D95?style=flat-square&logo=github&logoColor=white)](https://github.com/Krishjain-tech)
 
 </div>
 
